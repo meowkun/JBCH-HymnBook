@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Himnario</string>
+    <string name="hymn_book">Himnario</string>
+    <string name="hymns">Himnos</string>
+    <string name="settings">Configuración</string>
+    <string name="back">Atrás</string>
+    <string name="retry">Reintentar</string>
+    <string name="voice_parts">Partes Vocales</string>
+    <string name="lyrics_languages">Idiomas de Letras</string>
+    <string name="app_language">Idioma de la Aplicación</string>
+    <string name="soprano">Soprano</string>
+    <string name="alto">Alto</string>
+    <string name="tenor">Tenor</string>
+    <string name="bass">Bajo</string>
+    <string name="korean">Coreano</string>
+    <string name="english">Inglés</string>
+    <string name="chinese">Chino</string>
+    <string name="spanish">Español</string>
+</resources>
+

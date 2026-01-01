@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">赞美诗集</string>
+    <string name="hymn_book">赞美诗集</string>
+    <string name="hymns">赞美诗</string>
+    <string name="settings">设置</string>
+    <string name="back">返回</string>
+    <string name="retry">重试</string>
+    <string name="voice_parts">声部</string>
+    <string name="lyrics_languages">歌词语言</string>
+    <string name="app_language">应用语言</string>
+    <string name="soprano">女高音</string>
+    <string name="alto">女低音</string>
+    <string name="tenor">男高音</string>
+    <string name="bass">男低音</string>
+    <string name="korean">韩语</string>
+    <string name="english">英语</string>
+    <string name="chinese">中文</string>
+    <string name="spanish">西班牙语</string>
+</resources>
+

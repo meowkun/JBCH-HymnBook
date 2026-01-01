@@ -1,0 +1,51 @@
+{
+  "groups": [
+    {
+      "id": "test",
+      "order": 0,
+      "names": {
+        "ko": "테스트",
+        "en": "Test",
+        "zh": "测试",
+        "es": "Prueba"
+      }
+    },
+    {
+      "id": "worship",
+      "order": 1,
+      "names": {
+        "ko": "예배",
+        "en": "Worship",
+        "zh": "敬拜",
+        "es": "Adoración"
+      }
+    }
+  ],
+  "hymns": [
+    {
+      "id": "test_hymn",
+      "number": 287,
+      "groupId": "test",
+      "path": "test/test.xml",
+      "titles": {
+        "ko": "오늘 모여 찬송함은",
+        "en": "Gathering Today to Sing"
+      },
+      "availableParts": ["SOPRANO", "ALTO", "TENOR", "BASS"],
+      "availableLanguages": [1, 2, 3, 4]
+    },
+    {
+      "id": "hymn239",
+      "number": 239,
+      "groupId": "worship",
+      "path": "worship/hymn239.xml",
+      "titles": {
+        "ko": "오늘 숨을 쉬는 것 감사",
+        "en": "Thankful for Today's Breath"
+      },
+      "availableParts": ["SOPRANO", "ALTO", "TENOR", "BASS"],
+      "availableLanguages": [1, 2, 3, 4]
+    }
+  ]
+}
+

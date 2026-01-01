@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">찬송가</string>
+    <string name="hymn_book">찬송가</string>
+    <string name="hymns">찬송가</string>
+    <string name="settings">설정</string>
+    <string name="back">뒤로</string>
+    <string name="retry">다시 시도</string>
+    <string name="voice_parts">성부</string>
+    <string name="lyrics_languages">가사 언어</string>
+    <string name="app_language">앱 언어</string>
+    <string name="soprano">소프라노</string>
+    <string name="alto">알토</string>
+    <string name="tenor">테너</string>
+    <string name="bass">베이스</string>
+    <string name="korean">한국어</string>
+    <string name="english">영어</string>
+    <string name="chinese">중국어</string>
+    <string name="spanish">스페인어</string>
+</resources>
+

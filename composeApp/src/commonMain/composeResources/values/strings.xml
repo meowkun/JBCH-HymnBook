@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hymn Book</string>
+    <string name="hymn_book">Hymn Book</string>
+    <string name="hymns">Hymns</string>
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="retry">Retry</string>
+    <string name="voice_parts">Voice Parts</string>
+    <string name="lyrics_languages">Lyrics Languages</string>
+    <string name="app_language">App Language</string>
+    <string name="soprano">Soprano</string>
+    <string name="alto">Alto</string>
+    <string name="tenor">Tenor</string>
+    <string name="bass">Bass</string>
+    <string name="korean">Korean</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    <string name="spanish">Spanish</string>
+</resources>
+
